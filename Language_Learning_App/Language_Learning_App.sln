@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Language_Learning_App", "Language_Learning_App\Language_Learning_App.pyproj", "{36D36A1C-CD03-40FE-8692-4CC7D50B3338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D36A1C-CD03-40FE-8692-4CC7D50B3338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D36A1C-CD03-40FE-8692-4CC7D50B3338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC54CF32-1AEF-4E9D-BB2D-2022BFC2E8BC}
+	EndGlobalSection
+EndGlobal
