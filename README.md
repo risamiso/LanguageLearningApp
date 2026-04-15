@@ -26,7 +26,11 @@ Shift + Right Mouse Button => same, but for second one (note that the first one 
 Everything else is pretty intuitive.
 
 #How to run the app  
-Simply download the WorkingApp directory and run the .exe file.
+Click the green Code button on this repository.  
+Select Download ZIP.  
+Extract the ZIP file to any folder.  
+Open the WorkingApp folder.  
+Run the .exe file.  
 
 #Notes  
 It is supposed to not be full-screen, it's made so that it's more comfortable to switch to browser tab to look up for definition of a word or something similar.
