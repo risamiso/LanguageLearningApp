@@ -34,3 +34,5 @@ Run the .exe file.
 
 #Notes  
 It is supposed to not be full-screen, it's made so that it's more comfortable to switch to browser tab to look up for definition of a word or something similar.
+
+![Main UI Screenshot](images/app.png)
