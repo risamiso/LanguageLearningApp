@@ -1,5 +1,6 @@
 # LanguageLearningApp
-App for learning German/English/Russian vocabulary.
+App for learning German/English/Russian vocabulary.  
+This is beta and will be updated in the future.
 
 #Technical data  
 Made for: Windows  
